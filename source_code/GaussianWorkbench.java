@@ -8,13 +8,12 @@
  * The software license for the ACM libraries can be found here:
  * http://cs.stanford.edu/people/eroberts/jtf/documents/License.pdf
  * 
- * Roxa Meyer, Stanford University, and ACM shall not be held liable for errors or bugs in the software or for any 
+ * Josephine Meyer, Stanford University, and ACM shall not be held liable for errors or bugs in the software or for any 
  * incidental damages resulting from the use of this software. Creator offers no guarantees for the accuracy of
  * calculations done using this applet.
  * 
- * Created by: Roxa Meyer, Schleier-Smith lab, Stanford University, August 2017.
+ * Created by: Josephine Meyer, Schleier-Smith lab, Stanford University, August 2017.
  * Version #1.0.2, updated 08/14/2017.
- * Changes: Re-implemented find waist feature for better accuracy and fixed bug in drawing ruler.
  */
 
 
