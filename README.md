@@ -15,7 +15,7 @@ HISTORY:
 I developed the first iteration of Gaussian Workbench in August 2017 as an independent side project while working to develop a movable optical dipole trap using focus-tunable lenses under the guidance of Dr. Monika Schleier-Smith. Initially intended to simplify routine calculations for my own research, it quickly became apparent that the applet would be of use to physicists far beyond the Schleier-Smith lab. I received permission to release Gaussian Workbench as an open-source applet in September 2018.
 
 LICENSE INFORMATION AND DISCLAIMER:
-Gaussian Workbench relies on the Stanford ACM Java libraries for windows and graphics. The license information for the ACM libraries can be found here: https://www-cs-faculty.stanford.edu/people/eroberts/jtf/. All derivative works shall credit Stanford University and ACM for the use of the libraries, and in no instance shall any user claim ownership over the ACM libraries.
+Gaussian Workbench relies on the Stanford ACM Java libraries for windows and graphics. The license information for the ACM libraries can be found here: https://www-cs-faculty.stanford.edu/people/eroberts/jtf/. All derivative works shall credit Stanford University and ACM for the use of the libraries, and in no instance shall any user claim ownership over the ACM libraries. Because the ACM libraries are not guaranteed to be backwards compatible, I have included the version of ACM.jar that was used in the creation of Gaussian Workbench.
 
 Gaussian Workbench is intended for research and teaching applications only. Neither Gaussian Workbench nor derivative works may be sold or monetized, and all derivative works shall be made available as open-source software for research purposes.
 
@@ -28,9 +28,6 @@ While Gaussian Workbench has been rigorously tested, neither the author nor Stan
 QUESTIONS OR COMMENTS:
 If you have questions about how to operate Gaussian Workbench or believe you have identified a bug, please contact Josephine Meyer at jcmeyer@stanford.edu. (Note: if you are having trouble adding lenses, make sure you are not adding two lenses at identical or near-identical positions! This seems to be the most common problem reported by users.)
 
-Time permitting, I am hoping to release Gaussian Workbench 2.0 in January 2019. Features I am considering include fine-tuning of lens position, off-axis capabilities, and dielectric media. If you have any additional suggestions for useful features, please contact me at jcmeyer@stanford.edu. (Please be advised that features will be added at my discretion. In particular, all features added should be compatible with the ABCD matrix formalism and should not significantly increase computing overhead.)
-
-
-
+Time permitting, I am hoping to release Gaussian Workbench 2.0 in January 2019. Features I am considering include fine-tuning of lens position, off-axis capabilities, and dielectric media. If you have any additional suggestions for useful features, please contact me at jcmeyer@stanford.edu. (Please be advised that features will be added at my discretion. In particular, all features added should be compatible with the ABCD matrix formalism and should not significantly increase computing overhead.) Please also reach out to me if you would like to commit changes to Gaussian Workbench, particularly bug fixes and new features.
 
 
